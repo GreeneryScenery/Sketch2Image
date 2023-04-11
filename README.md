@@ -30,6 +30,19 @@ Sketch to image in one click.
 - SketchyCOCO (GitHub) (https://github.com/sysu-imsl/SketchyCOCO) -> ControlNet
 - Stable-Diffusion-Prompts (Hugging Face) (https://huggingface.co/datasets/Gustavosta/Stable-Diffusion-Prompts) -> GPT-2
 
+## Limitations:
+- A few cents to generate each image
+- CNN limited to 30 classes, and does not coincide with the ControlNet model
+- Prompt generator does not refer to the sketch
+- Image generator (SheepsNetV3) does not refer to the sketch
+
+## Improvements:
+- Better UI
+- Train CNN to recognise more classes / train CNN on SketchyCOCO
+- Train ControlNet on more epochs, more data, and better prompts
+  - May use LAION or ImageNet dataset
+- Use image to text models such as blip-image-captioning-large (https://huggingface.co/Salesforce/blip-image-captioning-large)
+
 ## Links:
 - [Hugging Face](https://huggingface.co/GreeneryScenery)
 - [Replicate](https://replicate.com/greeneryscenery)
