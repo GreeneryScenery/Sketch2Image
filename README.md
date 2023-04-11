@@ -15,7 +15,7 @@ Sketch to image in one click.
 - https://www.youtube.com/watch?v=AALBGpLbj6Q (GAN)
 - https://www.youtube.com/watch?v=jztwpsIzEGc (CNN)
 - https://quickdraw.readthedocs.io/en/latest/ (QuickDraw)
-- http://www.michieldb.nl/other/cursors/ (Posy’ Cursor)
+- http://www.michieldb.nl/other/cursors/ (Posy’s Cursor)
 - https://replicate.com/docs/guides/get-a-gpu-machine (Replicate)
 - https://replicate.com/docs/guides/push-a-model (Replicate)
 - https://lambdalabs.com/blog/set-up-a-tensorflow-gpu-docker-container-using-lambda-stack-dockerfile (Docker in Lambda Labs)
