@@ -3,6 +3,33 @@
 ## Objective:
 Sketch to image in one click.
 
+## Methodology:
+### Primary:
+- Sketch -> CNN (Classify image) -> GPT-2 (Generate prompt) -> ControlNet (Generate image)
+### Others:
+- OpenAssistant (Generate prompt)
+- MagicPrompt-Stable-Diffusion (Generate prompt)
+- Stable-Diffusion-img2img (Generate image)
+- ControlNet-Scribble (Generate image)
+- EdgeGAN (Generate edge map)
+
+## Models:
+### Trained:
+- CNN
+- Fine-tuned GPT-2 (https://github.com/minimaxir/gpt-2-simple)
+- Fine-tuned Stable Diffusion (ControlNet) (https://huggingface.co/GreeneryScenery/SheepsControlV3)
+### Borrowed:
+- OpenAssistant (Hugging Face) (https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b)
+- MagicPrompt-Stable-Diffusion (Hugging face) (https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion)
+- Stable-Diffusion-img2img (Replicate) (https://replicate.com/stability-ai/stable-diffusion-img2img)
+- ControlNet-Scribble (Replicate) (https://replicate.com/jagilley/controlnet-scribble)
+- EdgeGAN (GitHub) (https://github.com/sysu-imsl/EdgeGAN)
+
+## Datasets:
+- QuickDraw-Dataset (GitHub) (https://github.com/googlecreativelab/quickdraw-dataset) -> CNN
+- SketchyCOCO (GitHub) (https://github.com/sysu-imsl/SketchyCOCO) -> ControlNet
+- Stable-Diffusion-Prompts (Hugging Face) (https://huggingface.co/datasets/Gustavosta/Stable-Diffusion-Prompts) -> GPT-2
+
 ## Links:
 - [Hugging Face](https://huggingface.co/GreeneryScenery)
 - [Replicate](https://replicate.com/greeneryscenery)
