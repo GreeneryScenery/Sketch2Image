@@ -41,6 +41,21 @@ Sketch to image in one click.
 - [SheepsNetV2](https://huggingface.co/datasets/GreeneryScenery/SheepsNetV2)
 - [SheepsCanny](https://huggingface.co/datasets/GreeneryScenery/SheepsCanny)
 
+## Examples:
+### ControlNet-Scribble:
+- Conditioning image:
+- Prompt: Turtle, happy, highly detailed, artgerm, artstation, conceptart, matte, sharp, focus, art by WLOP and James Jean and Victo Ngai
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/TurtlehappyhighlydetailedartgermartstationconceptartmattesharpfocusartbyWLOPandJamesJeanandVictoNgai2_input.png' style = 'width: 256px'>
+
+- Image:
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/TurtlehappyhighlydetailedartgermartstationconceptartmattesharpfocusartbyWLOPandJamesJeanandVictoNgai1_output.png' style = 'width: 256px'>
+
+### SheepsNetV3:
+- Prompt: Sheep, trending, on artstation, artstation, HD, artstationHQ, patreon, 4k, 8k
+- Conditioning image: Anything :(
+- Image:
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/SheeptrendingonartstationartstationHDartstationHQpatreon4k8k_output.png' style = 'width: 256px'>
+
 ## Limitations:
 - A few cents to generate each image
 - CNN limited to 30 classes, and does not coincide with the ControlNet model
