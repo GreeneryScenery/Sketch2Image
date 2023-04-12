@@ -1,5 +1,13 @@
 # Sketch2Image
 
+## How to run UI:
+1. Open user_interface.ipynb.
+2. Enter your Replicate API token.
+3. The models should be available online or automatically download.
+4. If the models do not successfully download, download them [here](https://huggingface.co/GreeneryScenery/Sketch2ImageModels) and place them in the same directory as the other folders and files.
+5. Run user_interface.ipynb.
+6. The user interface should open. Enjoy!
+
 ## Objective:
 Sketch to image in one click.
 
