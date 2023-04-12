@@ -19,7 +19,7 @@ Sketch to image in one click.
 - MagicPrompt-Stable-Diffusion (Generate prompt)
 - Stable-Diffusion-img2img (Generate image)
 - ControlNet-Scribble (Generate image)
-- EdgeGAN (Generate edge map)
+- Sketch-Guided-Stable-Diffusion (Generate edge map)
 
 ## Models:
 ### Trained:
@@ -31,7 +31,7 @@ Sketch to image in one click.
 - MagicPrompt-Stable-Diffusion (Hugging face) (https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion)
 - Stable-Diffusion-img2img (Replicate) (https://replicate.com/stability-ai/stable-diffusion-img2img)
 - ControlNet-Scribble (Replicate) (https://replicate.com/jagilley/controlnet-scribble)
-- EdgeGAN (GitHub) (https://github.com/sysu-imsl/EdgeGAN)
+- Sketch-Guided-Stable-Diffusion (GitHub) (https://github.com/ogkalu2/Sketch-Guided-Stable-Diffusion)
 
 ## Datasets:
 - QuickDraw-Dataset (GitHub) (https://github.com/googlecreativelab/quickdraw-dataset) -> CNN
