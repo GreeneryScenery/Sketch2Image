@@ -1,6 +1,6 @@
 # Sketch2Image
 
-## How to run UI:
+## Instructions:
 1. Open user_interface.ipynb.
 2. Enter your Replicate API token.
 3. The models should be available online or automatically download.
