@@ -90,7 +90,7 @@ Sketch to image in one click.
 - [Hugging Face](https://huggingface.co/GreeneryScenery)
 - [Replicate](https://replicate.com/greeneryscenery)
 
-## References / resources:
+## References / Resources:
 - https://github.com/huggingface/diffusers/tree/main/examples/controlnet (ControlNet)
 - https://huggingface.co/blog/train-your-controlnet (ControlNet)
 - https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/controlnet (ControlNet)
