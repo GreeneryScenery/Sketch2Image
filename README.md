@@ -11,10 +11,10 @@
 ## Objective:
 Sketch to image in one click.
 
-## Applications / Usage:
-- Allow more control over the composition of the generated image.
-- Enable everyone to generate beautiful images.
-- As not everyone is able to draw well, a sketch makes the tool more accessible.
+## Applications / Usages:
+- Allow more control over the composition of the generated image
+- Enable everyone to generate beautiful images
+- As not everyone is able to draw well, a sketch makes the tool more accessible
 
 ## Methodology:
 ### Primary:
