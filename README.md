@@ -34,7 +34,7 @@ Sketch to image in one click.
 ### Models:
 - [SheepsControl](https://huggingface.co/GreeneryScenery/SheepsControl)
 - [SheepsControlV2](https://huggingface.co/GreeneryScenery/SheepsControlV2)
-- [SheepsControlV3](https://huggingface.co/GreeneryScenery/SheepsControlV3)
+- [SheepsControlV3](https://huggingface.co/GreeneryScenery/SheepsControlV3) [SheepsControlV3 on Replicate](https://replicate.com/greeneryscenery/sheeps-control-v3)
 - [SheepsControlV4 (Under training)](https://huggingface.co/GreeneryScenery/SheepsControlV4)
 ### Datasets:
 - [SheepsNet](https://huggingface.co/datasets/GreeneryScenery/SheepsNet)
