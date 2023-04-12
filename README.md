@@ -65,6 +65,14 @@ Sketch to image in one click.
 - Image:
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/SheeptrendingonartstationartstationHDartstationHQpatreon4k8k_output.png' style = 'width: 256px'>
 
+### UI:
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/1.png' style = 'width: 512px'>
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/2.png' style = 'width: 512px'>
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/3.png' style = 'width: 512px'>
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/4.png' style = 'width: 512px'>
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/5.png' style = 'width: 512px'>
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/6.png' style = 'width: 512px'>
+
 ## Limitations:
 - A few cents to generate each image
 - CNN limited to 30 classes, and does not coincide with the ControlNet model
