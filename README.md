@@ -30,6 +30,17 @@ Sketch to image in one click.
 - SketchyCOCO (GitHub) (https://github.com/sysu-imsl/SketchyCOCO) -> ControlNet
 - Stable-Diffusion-Prompts (Hugging Face) (https://huggingface.co/datasets/Gustavosta/Stable-Diffusion-Prompts) -> GPT-2
 
+## Link to models and datasets:
+### Models:
+- [SheepsControl](https://huggingface.co/GreeneryScenery/SheepsControl)
+- [SheepsControlV2](https://huggingface.co/GreeneryScenery/SheepsControlV2)
+- [SheepsControlV3](https://huggingface.co/GreeneryScenery/SheepsControlV3)
+- [SheepsControlV4 (Under training)](https://huggingface.co/GreeneryScenery/SheepsControlV4)
+### Datasets:
+- [SheepsNet](https://huggingface.co/datasets/GreeneryScenery/SheepsNet)
+- [SheepsNetV2](https://huggingface.co/datasets/GreeneryScenery/SheepsNetV2)
+- [SheepsCanny](https://huggingface.co/datasets/GreeneryScenery/SheepsCanny)
+
 ## Limitations:
 - A few cents to generate each image
 - CNN limited to 30 classes, and does not coincide with the ControlNet model
