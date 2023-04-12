@@ -32,6 +32,7 @@ Sketch to image in one click.
 
 ## Link to models and datasets:
 ### Models:
+- [Sketch2ImageModels](https://huggingface.co/GreeneryScenery/Sketch2ImageModels)
 - [SheepsControl](https://huggingface.co/GreeneryScenery/SheepsControl)
 - [SheepsControlV2](https://huggingface.co/GreeneryScenery/SheepsControlV2)
 - [SheepsControlV3](https://huggingface.co/GreeneryScenery/SheepsControlV3) [SheepsControlV3 on Replicate](https://replicate.com/greeneryscenery/sheeps-control-v3)
