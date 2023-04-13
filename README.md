@@ -30,7 +30,7 @@ Sketch to image in one click.
 ### Trained:
 - CNN
 - Fine-tuned GPT-2 (https://github.com/minimaxir/gpt-2-simple)
-- Fine-tuned Stable Diffusion (ControlNet) (https://huggingface.co/GreeneryScenery/SheepsControlV3)
+- Fine-tuned Stable Diffusion (ControlNet) (https://huggingface.co/GreeneryScenery/SheepsControlV4)
 ### Borrowed:
 - OpenAssistant (Hugging Face) (https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b)
 - MagicPrompt-Stable-Diffusion (Hugging face) (https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion)
@@ -69,6 +69,16 @@ Sketch to image in one click.
 - Conditioning image: Anything :(
 - Image:
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/SheeptrendingonartstationartstationHDartstationHQpatreon4k8k_output.png' style = 'width: 256px'>
+
+### SheepsNetV4
+<img src = 'https://huggingface.co/GreeneryScenery/SheepsControlV4/resolve/main/overview.png'>
+- Prompt: Cute turtle
+
+- Conditioning image:
+<img src = 'https://huggingface.co/GreeneryScenery/SheepsControlV4/resolve/main/turtle.png' style = 'width: 256px'>
+
+- Image:
+<img src = 'https://huggingface.co/GreeneryScenery/SheepsControlV4/resolve/main/Cute turtle.png' style = 'width: 256px'>
 
 ### UI:
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/1.png' style = 'width: 512px'>
