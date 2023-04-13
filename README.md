@@ -64,13 +64,13 @@ Sketch to image in one click.
 - Image:
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/TurtlehappyhighlydetailedartgermartstationconceptartmattesharpfocusartbyWLOPandJamesJeanandVictoNgai1_output.png' style = 'width: 256px'>
 
-### SheepsNetV3:
+### SheepsControlV3:
 - Prompt: Sheep, trending, on artstation, artstation, HD, artstationHQ, patreon, 4k, 8k
 - Conditioning image: Anything :(
 - Image:
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/SheeptrendingonartstationartstationHDartstationHQpatreon4k8k_output.png' style = 'width: 256px'>
 
-### SheepsNetV4
+### SheepsControlV4
 <img src = 'https://huggingface.co/GreeneryScenery/SheepsControlV4/resolve/main/overview.png'>
 - Prompt: Cute turtle
 
