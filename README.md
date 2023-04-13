@@ -82,7 +82,6 @@ Sketch to image in one click.
 - A few cents to generate each image
 - CNN limited to 30 classes, and does not coincide with the ControlNet model
 - Prompt generator does not refer to the sketch
-- Image generator (SheepsNetV3) does not refer to the sketch
 
 ## Improvements:
 - Better UI
