@@ -88,6 +88,8 @@ Sketch to image in one click.
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/4.png' style = 'width: 512px'>
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/5.png' style = 'width: 512px'>
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/6.png' style = 'width: 512px'>
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/7.png' style = 'width: 512px'>
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/8.png' style = 'width: 512px'>
 
 ## Limitations:
 - A few cents to generate each image
