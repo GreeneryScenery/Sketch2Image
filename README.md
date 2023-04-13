@@ -72,6 +72,7 @@ Sketch to image in one click.
 
 ### SheepsControlV4
 <img src = 'https://huggingface.co/GreeneryScenery/SheepsControlV4/resolve/main/overview.png'>
+
 - Prompt: Cute turtle
 
 - Conditioning image:
