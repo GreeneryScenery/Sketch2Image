@@ -58,7 +58,7 @@ Sketch to image in one click.
 ## Examples:
 ### ControlNet-Scribble:
 - Conditioning image:
-- Prompt: Turtle, happy, highly detailed, artgerm, artstation, conceptart, matte, sharp, focus, art by WLOP and James Jean and Victo Ngai
+- Prompt: Turtle, happy, highly detailed, artgerm, artstation, concept art, matte, sharp, focus, art by WLOP and James Jean and Victo Ngai
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/TurtlehappyhighlydetailedartgermartstationconceptartmattesharpfocusartbyWLOPandJamesJeanandVictoNgai2_input.png' style = 'width: 256px'>
 
 - Image:
