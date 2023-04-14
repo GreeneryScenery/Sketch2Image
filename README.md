@@ -1,5 +1,10 @@
 # Sketch2Image
 
+## Demo:
+<video controls>
+  <source src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/demo.mp4' type = 'video/mp4'>
+</video>
+
 ## Instructions:
 1. Open user_interface.ipynb.
 2. Enter your Replicate API token.
@@ -88,6 +93,8 @@ Sketch to image in one click.
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/4.png' style = 'width: 512px'>
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/5.png' style = 'width: 512px'>
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/6.png' style = 'width: 512px'>
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/7.png' style = 'width: 512px'>
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/8.png' style = 'width: 512px'>
 
 ## Limitations:
 - A few cents to generate each image
