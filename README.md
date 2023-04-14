@@ -1,6 +1,6 @@
 # Sketch2Image
 
-## Demo:
+## Overview:
 <video controls>
   <source src = '' type = 'video/mp4'>
 </video>
