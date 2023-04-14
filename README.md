@@ -1,9 +1,9 @@
 # Sketch2Image
 
 ## Overview:
-<video controls>
-  <source src = '' type = 'video/mp4'>
-</video>
+
+https://user-images.githubusercontent.com/89194387/232005474-7d55a293-f1cd-4817-a338-37eeed4dc0e0.mp4
+
 
 ## Instructions:
 1. Open user_interface.ipynb.
