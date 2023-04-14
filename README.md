@@ -2,7 +2,7 @@
 
 ## Overview:
 <video controls>
-  <source src = '' type = 'video/mp4'>
+  <source src = 'https://nushighedu-my.sharepoint.com/personal/h2130005_nushigh_edu_sg/_layouts/15/embed.aspx?UniqueId=5b52f1f4-2909-4c85-9290-0a55fef9d613&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create' type = 'video/mp4'>
 </video>
 
 ## Instructions:
