@@ -1,5 +1,10 @@
 # Sketch2Image
 
+## Demo:
+<video controls>
+  <source src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/demo.mp4' type = 'video/mp4'>
+</video>
+
 ## Instructions:
 1. Open user_interface.ipynb.
 2. Enter your Replicate API token.
