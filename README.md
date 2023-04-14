@@ -2,7 +2,7 @@
 
 ## Demo:
 <video controls>
-  <source src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/demo.mp4' type = 'video/mp4'>
+  <source src = '' type = 'video/mp4'>
 </video>
 
 ## Instructions:
