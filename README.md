@@ -51,10 +51,11 @@ Sketch to image in one click.
 ## Link to models and datasets:
 ### Models:
 - [Sketch2ImageModels](https://huggingface.co/GreeneryScenery/Sketch2ImageModels)
-- [SheepsControl](https://huggingface.co/GreeneryScenery/SheepsControl)
+- [SheepsControl](https://huggingface.co/GreeneryScenery/SheepsControlV1)
 - [SheepsControlV2](https://huggingface.co/GreeneryScenery/SheepsControlV2)
 - [SheepsControlV3](https://huggingface.co/GreeneryScenery/SheepsControlV3) [SheepsControlV3 on Replicate](https://replicate.com/greeneryscenery/sheeps-control-v3)
 - [SheepsControlV4](https://huggingface.co/GreeneryScenery/SheepsControlV4) [SheepsControlV4 on Replicate](https://replicate.com/greeneryscenery/sheeps-control-v4)
+- [SheepsControlV5](https://huggingface.co/GreeneryScenery/SheepsControlV5) [SheepsControlV4 on Replicate](https://replicate.com/greeneryscenery/sheeps-controlnet-sketch-2-image)
 ### Datasets:
 - [SheepsNet](https://huggingface.co/datasets/GreeneryScenery/SheepsNet)
 - [SheepsNetV2](https://huggingface.co/datasets/GreeneryScenery/SheepsNetV2)
@@ -85,6 +86,9 @@ Sketch to image in one click.
 
 - Image:
 <img src = 'https://huggingface.co/GreeneryScenery/SheepsControlV4/resolve/main/Cute turtle.png' style = 'width: 256px'>
+
+### SheepsControlV5
+[Validation report](https://wandb.ai/cs-project/controlnet/reports/SheepsControlV5--Vmlldzo0MDcyNTU5?accessToken=2u04hzf2ud525fkqyji3rrpaatolgab3vfwa2pow3lcgbouhbz4jghoiblc8uvyj)
 
 ### UI:
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/1.png' style = 'width: 512px'>
