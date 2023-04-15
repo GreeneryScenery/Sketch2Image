@@ -51,11 +51,11 @@ Sketch to image in one click.
 ## Link to models and datasets:
 ### Models:
 - [Sketch2ImageModels](https://huggingface.co/GreeneryScenery/Sketch2ImageModels)
-- [SheepsControl](https://huggingface.co/GreeneryScenery/SheepsControlV1)
+- [SheepsControlV1](https://huggingface.co/GreeneryScenery/SheepsControlV1)
 - [SheepsControlV2](https://huggingface.co/GreeneryScenery/SheepsControlV2)
 - [SheepsControlV3](https://huggingface.co/GreeneryScenery/SheepsControlV3) [SheepsControlV3 on Replicate](https://replicate.com/greeneryscenery/sheeps-control-v3)
 - [SheepsControlV4](https://huggingface.co/GreeneryScenery/SheepsControlV4) [SheepsControlV4 on Replicate](https://replicate.com/greeneryscenery/sheeps-control-v4)
-- [SheepsControlV5](https://huggingface.co/GreeneryScenery/SheepsControlV5) [SheepsControlV4 on Replicate](https://replicate.com/greeneryscenery/sheeps-controlnet-sketch-2-image)
+- [SheepsControlV5](https://huggingface.co/GreeneryScenery/SheepsControlV5) [SheepsControlV5 on Replicate](https://replicate.com/greeneryscenery/sheeps-controlnet-sketch-2-image)
 ### Datasets:
 - [SheepsNet](https://huggingface.co/datasets/GreeneryScenery/SheepsNet)
 - [SheepsNetV2](https://huggingface.co/datasets/GreeneryScenery/SheepsNetV2)
