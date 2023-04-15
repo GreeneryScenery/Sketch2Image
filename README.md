@@ -90,6 +90,8 @@ Sketch to image in one click.
 ### SheepsControlV5
 [Validation report](https://wandb.ai/cs-project/controlnet/reports/SheepsControlV5--Vmlldzo0MDcyNTU5?accessToken=2u04hzf2ud525fkqyji3rrpaatolgab3vfwa2pow3lcgbouhbz4jghoiblc8uvyj)
 
+<img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/9.png'>
+
 ### UI:
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/1.png' style = 'width: 512px'>
 <img src = 'https://github.com/GreeneryScenery/Sketch2Image/blob/main/examples/2.png' style = 'width: 512px'>
