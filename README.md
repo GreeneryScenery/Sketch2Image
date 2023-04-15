@@ -4,6 +4,8 @@
 
 https://user-images.githubusercontent.com/89194387/232005474-7d55a293-f1cd-4817-a338-37eeed4dc0e0.mp4
 
+## Demo:
+
 https://user-images.githubusercontent.com/89194387/232189846-e96139be-f660-4d10-b718-e40b8366076d.mp4
 
 (From [user_interface_google_colab](https://github.com/GreeneryScenery/Sketch2Image/blob/main/user_interface_google_colab.ipynb))
